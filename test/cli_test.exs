@@ -9,6 +9,6 @@ defmodule CLITest do
   end
 
   test "one value returned if one given" do
-    assert parse_args(["400578878"]) == { 400578878 }
+    assert parse_args(["400578878"]) == 400578878
   end
 end
