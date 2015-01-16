@@ -1,4 +1,2 @@
-Nba
-===
-
-** TODO: Add description **
+# NBA
+Test project to learn Elixir
